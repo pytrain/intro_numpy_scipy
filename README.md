@@ -13,4 +13,4 @@ the two modules and their use in real applications.
 | Lecture Topic | Interactive Link | Lecturer |
 |---------------|------------------|----------|
 | Introduction to Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/numpy/blob/master/IntroNumPy.ipynb) | Jules |
-| Introduction to Scipy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/scipy/blob/master/IntroductionSciPy.ipynb) | Jules |
+| Introduction to SciPy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/scipy/blob/master/IntroductionSciPy.ipynb) | Jules |

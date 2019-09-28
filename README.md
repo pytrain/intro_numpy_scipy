@@ -19,6 +19,7 @@ the two modules and their use in real applications.
 -->
 
 
+### Obtaining the Materials
 
 In case you want to obtained the materials using `git` commands:
 

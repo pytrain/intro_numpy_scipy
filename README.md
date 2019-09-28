@@ -10,6 +10,7 @@ such as minimization, Fourier transformation, regression, and other applied math
 We introduce NumPy and SciPy to allow participants to get familiar with some broad functionalities of 
 the two modules and their use in real applications. 
 
+***
 
 
 | Lecture Topic | Interactive Link | Lecturer |

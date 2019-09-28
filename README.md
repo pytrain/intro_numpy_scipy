@@ -19,9 +19,10 @@ the two modules and their use in real applications.
 | Feedback Session | <a href="https://www.surveymonkey.com/r/ZXX9J6H"> Survey on Numpy </a> | |
 -->
 
+---
 
 
-#### Obtaining the Materials
+##### Obtaining the Materials
 
 In case you want to obtained the materials using `git` commands:
 ```

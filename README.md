@@ -18,8 +18,10 @@ the two modules and their use in real applications.
 | Feedback Session | <a href="https://www.surveymonkey.com/r/ZXX9J6H"> Survey on Numpy </a> | |
 -->
 
+
+
 In case you want to obtained the materials using `git` commands:
 
-`git clone https://github.com/pytrain/numpy.git`
+     `git clone https://github.com/pytrain/numpy.git`
 
-`git clone https://github.com/pytrain/scipy.git`
+     `git clone https://github.com/pytrain/scipy.git`

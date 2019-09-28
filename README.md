@@ -10,6 +10,8 @@ such as minimization, Fourier transformation, regression, and other applied math
 We introduce NumPy and SciPy to allow participants to get familiar with some broad functionalities of 
 the two modules and their use in real applications. 
 
+<br>
+<br>
 | Lecture Topic | Interactive Link | Lecturer |
 |---------------|------------------|----------|
 | Introduction to Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/numpy/blob/master/IntroNumPy.ipynb) | Jules |
@@ -18,11 +20,13 @@ the two modules and their use in real applications.
 | Feedback Session | <a href="https://www.surveymonkey.com/r/ZXX9J6H"> Survey on Numpy </a> | |
 -->
 
+<br>
+<br>
 
 #### Obtaining the Materials
 
 In case you want to obtained the materials using `git` commands:
 
-     `git clone https://github.com/pytrain/numpy.git
+      git clone https://github.com/pytrain/numpy.git
 
-      git clone https://github.com/pytrain/scipy.git`
+      git clone https://github.com/pytrain/scipy.git
